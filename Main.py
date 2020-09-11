@@ -34,7 +34,7 @@ def main():
 
     else:
         print('Error')
-        print('Digite sim ou não')
+        print('Digite sim ou nã')
         sleep(2)
         main()
 
