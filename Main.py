@@ -6,7 +6,7 @@ from random import randint
 import os  # SO
 from time import sleep
 
-
+#teste#
 def main():
 
     global bot
